@@ -87,21 +87,15 @@ The Power BI dashboard highlights:
    git clone <repository-url>
    cd <project-folder>
    ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Python analysis**
+2. **Run Python analysis**
    - Open the Jupyter Notebook
    - Execute EDA and data cleaning steps
 
-4. **Run SQL queries**
+3. **Run SQL queries**
    - Import cleaned data into PostgreSQL / MySQL / SQL Server
    - Execute queries from the /sql folder
 
-5. **View Dashboard**
+4. **View Dashboard**
    - Open the Power BI .pbix file
    - Refresh data sources if required
 
